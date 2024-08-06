@@ -1,0 +1,21 @@
+CSS Box Model: 
+https://www.w3schools.com/css/css_boxmodel.asp
+
+reset css: 
+https://www.alura.com.br/artigos/o-que-e-reset-css
+
+Box-sizing:
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
+Unidade de medida:
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+Flexbox:
+https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+google fonts:
+https://fonts.google.com/
+
+//figma do projeto portfólio
+https://www.figma.com/design/ZXOPPM0YCSQLhowOA7kybZ/Portfolio---html-e-css?node-id=0-1&t=y3g4SSjAqFxuIJT9-1
